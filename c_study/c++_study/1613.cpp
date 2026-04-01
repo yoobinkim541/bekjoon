@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(void){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     int node, edge;
     cin >> node >> edge;
     vector<vector<bool>> graph (401,vector<bool>(401,false));
@@ -22,7 +24,7 @@ int main(void){
             }
         }
     }
-    
+
     // 결과 출력
     int num;
     cin >> num;
