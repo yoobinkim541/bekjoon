@@ -1,4 +1,4 @@
-# 백준을 꼬박꼬박 풀어보자
+# 백준을 매일 풀어보자!
 
 ## 블로그 운영중이에요 많관부
 ### https://norepinephrine.tistory.com
